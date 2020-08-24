@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StripeDemo</string>
+
+
+    <string name="stripe_publishable_key">Your publishable key</string>
+    
+    <string name="add_card_stripe">Add Card</string>
+    <string name="one_time_payment">One Time Payment</string>
+
+</resources>
